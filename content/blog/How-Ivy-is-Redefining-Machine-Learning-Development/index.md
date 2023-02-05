@@ -1,6 +1,7 @@
-# How Ivy is Redefining Machine Learning Development
-
-Date: October 23, 2022
+---
+title: How Ivy is Redefining Machine Learning Development
+date: "2015-05-06T23:46:37.121Z"
+---
 
 ## When there’s chaos in ML, Ivy steps up as the chosen one?
 
