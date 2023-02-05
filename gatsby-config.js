@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Musings on ML R&D.`,
+    title: `Perplexity: Musings on ML R&D.`,
     author: {
       name: `Marouf Shaikh`,
       summary: `based in the UK, building ML products to solve problems.`,
