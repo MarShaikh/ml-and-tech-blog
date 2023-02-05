@@ -21,7 +21,7 @@ Ivy is positioning itself as both an independent framework and a transpilation l
 
 For example, `x + y = z` can be represented by the graph compiler as shown in this figure. However, please note this is a very simplified representation and in practise, it is much more complicated!
 
-![Blank diagram(5).png](Blank_diagram(5).png)
+![graph_compiler.png](graph_compiler.png)
 
 This type of graph representation can be extracted from any of the backends that Ivy currently supports using `ivy.compile_graph` and converted to any other framework using `ivy.to_backend('<framework>')`.
 
