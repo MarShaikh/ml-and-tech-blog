@@ -1,6 +1,6 @@
 ---
 title: How Ivy is Redefining Machine Learning Development
-date: "2015-05-06T23:46:37.121Z"
+date: "2022-10-23T12:46:37"
 ---
 
 ## When there’s chaos in ML, Ivy steps up as the chosen one?
